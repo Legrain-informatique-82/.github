@@ -1,1 +1,1 @@
-# .github
+Legrain Informatique
